@@ -17,7 +17,7 @@ This application is available for Windows and MacOSX, its possible to download t
 - Set a directory with all the PDF/doc files of all schedules of the employers
 
 
-![alt text](Images/appWorks.png)
+![alt text](Images/appWork.png)
 
 ##### Steps:
 - Set the directories of the config, excel files and the directory that has all the schedules of your employers.
