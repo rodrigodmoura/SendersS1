@@ -1,14 +1,11 @@
 # Senders S1
-## An app to send Schedule emails to your employees (Open Source)  
-
-
-
+## An app to send Schedule emails to your employers (Open Source)  
 
 This application was created in Python and at this version only works for Gmail SMTP Servers, it's possible to change the code to other servers.
 
 ![alt text](Images/mainMenu.png)
 
-This application is available for Windows and MacOSX, its possible to download the setup, at the folder Setup.
+This application is available for Windows and MacOSX, its possible to download the setup for windows, at the folder Setup. For the MacOSX you just need to run the macosxSetup.py
 
 ## Demonstration
 
@@ -17,7 +14,7 @@ This application is available for Windows and MacOSX, its possible to download t
 - Set a directory with all the PDF/doc files of all schedules of the employers
 
 
-![alt text](Images/appWorks.png)
+![alt text](Images/appWork.png)
 
 ##### Steps:
 - Set the directories of the config, excel files and the directory that has all the schedules of your employers.
