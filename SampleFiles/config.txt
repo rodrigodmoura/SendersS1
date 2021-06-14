@@ -1,0 +1,3 @@
+[Config]
+Sender=noreply@noreply1232134123.com
+Password=*********
